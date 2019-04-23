@@ -1,6 +1,6 @@
 # EmojiPrediction
 
-This repository is aim to improvement the [paper](https://dl.acm.org/citation.cfm?id=3282406)
+The purpose of this repository is to improve the [paper](https://dl.acm.org/citation.cfm?id=3282406)
 
 ## Getting Started
 To install PyTorch, see installation instructions on the [PyTorch website](pytorch.org).
